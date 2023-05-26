@@ -1,0 +1,28 @@
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.header-nav-list {
+    display: flex;
+    gap: 20px;
+
+}
+.header-nav-list:hover {
+    color:#1A75E8;
+    
+}
+.header-nav-btn {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+
+}
+.rgister {
+  padding: 15px 30px;
+  background: #1A75E8;
+  border-radius: 5px;
+  color: #FFFFFF;
+  
+}
