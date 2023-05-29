@@ -26,3 +26,41 @@
   color: #FFFFFF;
   
 }
+/* Стилі для header-main */
+.heade-main {
+ display: flex;
+align-items: center;
+gap: 130px;
+
+}
+.header-main-card {
+    max-width: 460px;
+}
+.heade-card-title {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 53px;
+    margin-bottom: 15px;
+}
+.header-card-text {
+    font-size: 18px;
+    line-height: 140%;
+    margin-bottom: 30px;
+
+}
+
+.header-card-search {
+    background: #FFFFFF;
+border: 1px solid rgba(209, 209, 209, 0.1);
+box-shadow: 0px 4px 25px rgba(15, 17, 56, 0.1);
+border-radius: 5px;
+}
+.search-input {
+    border: none;
+    outline: none;
+}
+.search-button {
+   
+    
+}
+
